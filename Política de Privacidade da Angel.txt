@@ -1,0 +1,20 @@
+**Política de Privacidade da Angel**
+
+**1. Informações que Coletamos**
+A Angel coleta apenas os dados estritamente necessários para o funcionamento de suas ferramentas de segurança, moderação e sistemas de RPG em texto. Isso inclui:
+
+* **IDs do Discord:** IDs de usuários, canais e servidores para manter o progresso do RPG e aplicar punições de moderação.
+* **Conteúdo de Mensagens (Temporário):** Textos e anexos de imagens são lidos em tempo real para o funcionamento do sistema Anti-Spam e da detecção de Phishing via OCR.
+* **Dados de Interação:** Comandos utilizados e estatísticas de jogo (Nível, Pontos de Vida, Inventário).
+
+**2. Como Usamos as Informações**
+
+* **Segurança e Moderação:** O conteúdo das mensagens é processado em tempo real por nossas ferramentas internas (incluindo OCR para detecção de golpes e APIs parceiras como o Sightengine para análise de mídia maliciosa) para garantir um ambiente seguro. Textos e imagens **não são armazenados** após a verificação de segurança, exceto em logs temporários de moderação acessíveis apenas pela administração do servidor.
+* **Mecânicas de RPG:** Dados de perfil e progresso são armazenados em nosso banco de dados interno para que o usuário não perca seu avanço.
+* **Interação com Inteligência Artificial:** Mensagens em que o bot é mencionado são processadas para gerar respostas conversacionais contextuais.
+
+**3. Compartilhamento de Dados**
+Nós não vendemos, alugamos ou compartilhamos dados pessoais com terceiros. Imagens enviadas podem ser processadas anonimamente por APIs de segurança de terceiros (Sightengine) exclusivamente para verificar violações (gore, golpes, material ilícito), sem retenção dos dados vinculados ao usuário.
+
+**4. Retenção e Exclusão**
+Dados de moderação são rotativos. Dados do RPG são mantidos enquanto o usuário for ativo. Qualquer usuário pode solicitar a exclusão de seu perfil de RPG entrando em contato com a equipe de desenvolvimento.
