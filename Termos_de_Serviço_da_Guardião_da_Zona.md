@@ -1,7 +1,7 @@
-**Política de Privacidade da Angel**
+**Política de Privacidade da Guardião da Zona**
 
 **1. Informações que Coletamos**
-A Angel coleta apenas os dados estritamente necessários para o funcionamento de suas ferramentas de segurança, moderação e sistemas de RPG em texto. Isso inclui:
+A Zona RPG coleta apenas os dados estritamente necessários para o funcionamento de suas ferramentas de segurança, moderação e sistemas de RPG em texto. Isso inclui:
 
 * **IDs do Discord:** IDs de usuários, canais e servidores para manter o progresso do RPG e aplicar punições de moderação.
 * **Conteúdo de Mensagens (Temporário):** Textos e anexos de imagens são lidos em tempo real para o funcionamento do sistema Anti-Spam e da detecção de Phishing via OCR.
